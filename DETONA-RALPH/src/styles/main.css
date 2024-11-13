@@ -40,3 +40,15 @@
     justify-content: center;
 
 }
+.reset{
+    letter-spacing:0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 15px 20px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.reset:focus{
+    color: #ec7d38;
+    background-color: #262626;
+}
